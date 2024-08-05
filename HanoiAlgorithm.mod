@@ -24,7 +24,7 @@ local var robtarget robTEST:= [[928.6752,554.3275,-177.9826],[-0.08751068,-0.589
         nX1:= 0;
         nY1:=0;
         nZ1:=0;
-
+        !test
         ! Calculate heights
         height_1 := tower_height[pole1] * Disk_z_offset;
         height_2 := tower_height[pole2] * Disk_z_offset;
